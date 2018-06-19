@@ -14,7 +14,11 @@ import seaborn as sns
 
 ## Trends
 
-##### We can 
+###### 1) There is a higher number of drivers as well as rides in Urban places than in any other type of cities, i.e, suburban and rural. In fact, based on the data (collected in 2018), 86.7% of the total drivers are in Urban places, 12.5% of total drivers are in Suburban places, and less than 1% of drivers are in Rural places. We could deduce that, although more information might be needed, not only urban places tend to have more population but also that people in urban places are more used to taking cabs than people in rural places.     
+
+###### 2) We can also conclude that there is a negative correlation between the number of drivers / rides per city type and the average fare by city type; in other words, Urban places, which tend to have more drivers, and rides, per city, have a smaller average fare per city than Suburban and Rural places. This might be due a higher supply of drivers (which tends to drive the fare down due to more competition) or also that the rides in Rural places tend to be for longer distances. 
+
+##### 3) There might be an opportunity for the company to expand its presence in the suburban places since people in these cities are used to taking cabs (average number of rides per city type in suburban places is between 15 to 20 rides while the average in urban places is between 20 to 30 rides) plus they pay more on average per ride than people in urban places. In addition, distances in suburban areas tend to be relatively short, unlike rural places. More data and analysis would have to be conducted to determine whether this could be an opportunity pr not.  
 
 
 ```python
